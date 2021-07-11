@@ -1,0 +1,40 @@
+* {
+    background: url(../imagenes/fondo.jpg);   
+}
+
+.titulo {
+    font-family: 'Raleway', sans-serif;
+    color: rgb(199, 50, 174);
+    text-align: center;
+}
+
+.nav_li {
+    display: inline-block;
+    padding: 12px;
+    padding-top: 40px;
+    color: #fff;
+    text-align: right;
+    font-size: 30px;
+}
+
+.nav_li a {
+    color: #fff;
+    text-decoration: none;
+}
+.nav_li i {
+    box-sizing: border-box;
+    text-align: center;
+    margin-right: 5px;
+    color: red;
+}
+
+.nav_li a:hover {
+    color: rgb(136, 123, 123);
+    text-decoration: none;
+
+}
+
+.nav_ul_responsive {
+    display: none;
+}
+
